@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disha's Cosmetics Landing Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            padding: 2em;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .feature {
+            flex: 1;
+            margin: 1em;
+            padding: 1.5em;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Disha's Cosmetics Landing Page</h1>
+        <p>Welcome to our amazing website!</p>
+    </header>
+
+    <section>
+        <h2>Features</h2>
+        <div class="container">
+            <div class="feature">
+                <h3>Feature 1</h3>
+                <p>Corporate Body: A company needs to be registered under the Companies Act, 2013. Any other organisation incorporated with the Registrar of Companies, and subsequently not registered cannot be considered as a company. 
+Separate Legal Entity: A company exists as a separate legal entity which is different from its shareholders and members. Due to this feature, shareholders can enter into a contract with the company and can also sue the company and be sued by the company.
+Limited Liability: As the company exists as a separate entity, members of the company are not liable for the debts of the company. Liability of members of a company is limited to the extent of the shares that are held by them or by the extent of the guarantee amount</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 2</h3>
+                <p>Transferability of Shares: Shareholders of a public limited company can transfer their shares as per the rules laid down in the articles of association. However, in case of a private limited company, there might be some restrictions on the transfer of shares.
+Common Seal: The firm is an artificial entity or a person, and therefore cannot sign its name by itself. It creates the necessity of a common seal that can be used for representing the decisions made on behalf of the company..</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 3</h3>
+                <p>Perpetual Succession: The company being an artificial person established by law perpetuates to exist regardless of the differences in its membership. In simple words, a company is an artificial person. Therefore, it does not have any restrictions on age. The factors like death, insolvency, retirement or the insanity of one or all of the members do not impact the company status. 
+Number of Members: As per the Companies Act, 2013, the minimum number of members required to start a public limited company is seven while for a private limited company, it is two. The maximum number of members for a public limited company can be unlimited while it is restricted to 200 for a private limited company.</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>About Us</h2>
+        <p>The founder is an integral part of the brand’s origin story, so making her the star of the page works. Think about including additional elements, like Bossy has, that can strengthen your About Us page, such as:
+
+Brand-related Instagram posts
+A welcome YouTube video
+Links to partner charities and brands
+Pictures of customers using your product
+Interactive timelines that show company milestones
+When you craft your About page, don’t forgo creativity for the sake of being professional, especially if that isn’t a value your brand stands for. What matters is that your brand is relatable to its target audience and meets them where they’re at.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Disha's Cosmetics. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
