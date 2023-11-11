@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Disha - Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <h1>Disha</h1>
+        <p>Web Developer | Designer</p>
+    </header>
+
+    <section id="about">
+        <img src=<a href="https://imagetolink.com/ib/GpioedRGgX"><img src="https://imagetolink.com/ib/GpioedRGgX.JPG" alt="GpioedRGgX"/></a>Disha
+        <p>
+            Hello! I'm Disha, a passionate web developer with expertise in HTML, CSS, and JavaScript.
+            I enjoy creating responsive and user-friendly websites.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Responsive Design</li>
+            <li>Web Design</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <img src=<a href="https://imagetolink.com/ib/afrEXtZ3vP"><img src="https://imagetolink.com/ib/afrEXtZ3vP.jpeg" alt="afrEXtZ3vP"/></a>
+
+
+            <p>participated in the webinar on single day masterclass with python.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <img src=<a href="https://imagetolink.com/ib/fgK1iRxpuB"><img src="https://imagetolink.com/ib/fgK1iRxpuB.jpeg" alt="fgK1iRxpuB"/></a> 
+            <p>it was a demo session organized by Edureka.</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p>Download my resume <a href=https://www.linkedin.com/in/p-disha-174604267 target="_blank" download>here</a>.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: dishapurushotham03@gmail.com</p>
+        <p>Phone: 8971735663</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Disha. All rights reserved.</p>
+        <!-- Add additional links or information if needed -->
+    </footer>
+</body>
+
+</html>
